@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I’m currently learning coding, this is my first project.
+
+This is an one page HTML Web page that quickly describes the evolution of HTML and CSS, there's the Tags and all References I used in this assignment.
+
+Cheers up! ✨
+
 <!--
 **mazds/mazds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
